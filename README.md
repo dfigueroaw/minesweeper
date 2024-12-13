@@ -1,2 +1,3 @@
 # minesweeper
-A console-based implementation of Minesweeper developed as my final project for Programming 2 at UTEC.
+
+This program was developed as my final project for the Programming 2 course at UTEC. Please note that the program is entirely in Spanish.
