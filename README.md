@@ -4,3 +4,7 @@ Minesweeper is a classic computer reasoning game where the user must reveal all 
 This game was originally introduced in 1989, initially programmed in C. The objective of this project is to simulate the game’s functionality by implementing classes (i.e., adapting C++ functionalities in video game development) and a history system, including a basic automatic player.
 
 This program was developed as my final project for the Programming 2 course at UTEC. Please note that the program is entirely in Spanish.
+
+## Classes
+
+![CLASSES DIAGRAM](classes-diagram.png)
